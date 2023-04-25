@@ -1,0 +1,54 @@
+div {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.arama-cubugu {
+    background-color: rgb(178, 236, 217);
+    width: 100%;
+    margin: 0 auto;
+}
+
+.menu {
+    width: 100%;
+    background-color: rgb(161, 159, 45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.altmenu1 {
+    width: 35%;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+
+.altmenu2 {
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+.altmenu3 {
+    width: 35%;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
